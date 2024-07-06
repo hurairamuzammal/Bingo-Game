@@ -6,6 +6,7 @@ The Game is coded in C++ programming language is excellent for new C++ devolpers
 
 
 # Sample Screentshots
+Attached below are the sample screentshots of the game.
 ## Main screen screenshots
 <img src="./PF-Bingo/PF-Bingo/screenshots/home.png" style="width:1500; height:200;">
 
