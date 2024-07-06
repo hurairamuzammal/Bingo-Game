@@ -1,7 +1,7 @@
 
 # BINGO 
 
-The Game is encoded in C++ programming language is excellent for new programamers
+The Game is coded in C++ programming language is excellent for new C++ devolpers. The game features use of functions  , input handling using string and basic file handling.
 
 
 
